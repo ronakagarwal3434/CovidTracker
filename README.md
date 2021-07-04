@@ -1,6 +1,7 @@
 # React COVID Tracker
 
 ## Website Preview
+Website is up and running. [Click here](https://covidtracker-21.herokuapp.com/)
 ![preview.png](https://github.com/ronakagarwal3434/CovidTracker/blob/master/public/preview.png?raw=true)
 
 ## Available Scripts
