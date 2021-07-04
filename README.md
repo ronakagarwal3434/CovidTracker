@@ -1,5 +1,8 @@
 # React COVID Tracker
 
+## Website Preview
+![preview.png](https://github.com/ronakagarwal3434/CovidTracker/blob/master/public/preview.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
